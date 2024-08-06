@@ -4,3 +4,26 @@ header {
     padding: 5px;
     padding-left: 10px;
 }
+h2 {
+    background-color: salmon;
+    color: #ff3800;
+    padding-left: 40%;
+    padding-right: 40%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+
+img {
+    width: 80%;
+}
+
+.info {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    border: 5px solid #7b3f00;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: blanchedalmond;
+}
+
