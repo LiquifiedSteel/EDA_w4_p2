@@ -27,3 +27,11 @@ img {
     background-color: blanchedalmond;
 }
 
+h3 {
+    background-color: salmon;
+    color: #ff3800;
+    padding-left: 35%;
+    padding-right: 35%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
